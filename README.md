@@ -64,63 +64,66 @@ pip install -r requirements.txt
 
 # 3. Run the application
 python gww.py
-📖 Usage
+```
 
-Launch the GUI:
+---
 
-python gww.py
+## 📖 Usage
 
+1. Launch the GUI:  
+   ```bash
+   python gww.py
+   ```
 
-Choose the desired module:
+2. Choose the desired module:  
+   - 🔎 **Mining Suite** → Run BLAST/HMMER searches  
+   - 🌳 **Classification Suite** → Align sequences & build phylogenies  
+   - 🧬 **Evolutionary Analysis** → Perform Ka/Ks analysis  
+   - 📊 **Visualization Tab** → Expression heatmaps & gene density maps  
+   - 🧪 **Primer Design Tab** → Design primers with Primer3  
 
-🔎 Mining Suite → Run BLAST/HMMER searches
+3. Explore the `examples/` folder for demo datasets.  
 
-🌳 Classification Suite → Align sequences & build phylogenies
+---
 
-🧬 Evolutionary Analysis → Perform Ka/Ks analysis
+## 🧪 Case Study
 
-📊 Visualization Tab → Expression heatmaps & gene density maps
+Applied GWW to **13 Vigna species** to study **NLRome evolution**:
 
-🧪 Primer Design Tab → Design primers with Primer3
+- 🌱 Identified **128–655 candidate NLR genes per species**  
+- 🔬 Confirmed **NB-ARC domain conservation**  
+- 📉 Ka/Ks analysis showed **purifying selection as the dominant evolutionary force**  
+- 🌳 Phylogenetic reconstruction revealed **lineage-specific expansions**  
 
-Explore the examples/ folder for demo datasets.
+---
 
-🧪 Case Study
+## 👥 Authors
 
-Applied GWW to 13 Vigna species to study NLRome evolution:
+- **Noor ul Eman**  
+  *University of Agriculture, Department of Computer Science – Bioinformatics*  
+- **Evolutionary Biology Lab, UAF**  
 
-🌱 Identified 128–655 candidate NLR genes per species
+---
 
-🔬 Confirmed NB-ARC domain conservation
+## 🤝 Contributing
 
-📉 Ka/Ks analysis showed purifying selection as the dominant evolutionary force
+💡 Contributions, issues, and feature requests are welcome!  
+Please open an [Issue](../../issues) or submit a Pull Request.  
 
-🌳 Phylogenetic reconstruction revealed lineage-specific expansions
+---
 
-👥 Authors
+## 📜 License
 
-Noor ul Eman
-University of Agriculture, Department of Computer Science – Bioinformatics
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
 
-Evolutionary Biology Lab, UAF
+---
 
-🤝 Contributing
+## 🔗 Citation
 
-💡 Contributions, issues, and feature requests are welcome!
-Please open an Issue
- or submit a Pull Request.
+If you use **Genome Wide WorkBench (GWW)** in your research, please cite:  
 
-📜 License
+> Noor ul Eman et al. (2025). *Genome Wide WorkBench: Integrated Offline Platform for Multi-Omics Research*.  
 
-This project is licensed under the MIT License – see the LICENSE
- file for details.
+---
 
-🔗 Citation
-
-If you use Genome Wide WorkBench (GWW) in your research, please cite:
-
-Noor ul Eman et al. (2025). Genome Wide WorkBench: Integrated Offline Platform for Multi-Omics Research.
-
-✨ GWW provides a comprehensive, cost-free solution for reproducible, large-scale genomics research — anywhere, anytime.
-
-
+✨ GWW provides a **comprehensive, cost-free solution** for reproducible, large-scale genomics research — **anywhere, anytime**.
