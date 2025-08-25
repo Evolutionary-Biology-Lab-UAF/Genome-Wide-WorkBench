@@ -99,9 +99,8 @@ Applied GWW to **13 Vigna species** to study **NLRome evolution**:
 
 ## 👥 Authors
 
-- **Noor ul Eman**  
-  *University of Agriculture, Department of Computer Science – Bioinformatics*  
-- **Evolutionary Biology Lab, UAF**  
+- **Noor ul Eman**  abd **Dr Saad Serfraz** 
+- **Evolutionary Biology Lab, University of Agriculture**  
 
 ---
 
