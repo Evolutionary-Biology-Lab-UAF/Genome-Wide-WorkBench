@@ -72,7 +72,7 @@ python src/main_app.py
 
 1. Launch the GUI:  
    ```bash
-   python gww.py
+   python src/main_app.py
    ```
 
 2. Choose the desired module:  
@@ -82,7 +82,7 @@ python src/main_app.py
    - 📊 **Visualization Tab** → Expression heatmaps & gene density maps  
    - 🧪 **Primer Design Tab** → Design primers with Primer3  
 
-3. Explore the `examples/` folder for demo datasets.  
+3. Explore the `data/` folder for demo datasets.  
 
 ---
 
