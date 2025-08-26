@@ -63,7 +63,7 @@ cd Genome-Wide-WorkBench
 pip install -r requirements.txt
 
 # 3. Run the application
-python gww.py
+python src/main_app.py
 ```
 
 ---
